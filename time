@@ -1,0 +1,2 @@
+rm -f /etc/localtime
+ln -sf /usr/share/zoneinfo/America/Los_Angeles /etc/localtime
